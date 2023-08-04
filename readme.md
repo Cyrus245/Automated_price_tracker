@@ -1,4 +1,4 @@
-# Automated Price Tracker
+# Automated Price Tracker!
 
 The **Automated Price Tracker** is a tool that monitors and tracks the prices of products from various online retailers.
 It provides users with the ability to set up price alerts and receive notifications when the price of a product drops to
